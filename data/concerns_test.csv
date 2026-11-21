@@ -1,0 +1,41 @@
+text,label,source
+"Sem exams are in 5 days and I'm nowhere close to ready",academic_stress,handwritten_test
+"I'm terrified my GPA will drop below 7 this sem",academic_stress,handwritten_test
+"Three lab records due on Monday and I haven't started",academic_stress,handwritten_test
+"My placement test is on Friday and I can't concentrate",academic_stress,handwritten_test
+"I keep thinking I'll flunk the maths paper",academic_stress,handwritten_test
+"It's 3am again and I'm still wide awake",sleep_difficulty,handwritten_test
+"My body clock is upside down, I sleep at sunrise",sleep_difficulty,handwritten_test
+"I toss and turn for hours before falling asleep",sleep_difficulty,handwritten_test
+"I'm getting barely 4 hours of rest each night",sleep_difficulty,handwritten_test
+"Can't sleep because my thoughts won't stop",sleep_difficulty,handwritten_test
+"I sit alone in the canteen every single day",loneliness,handwritten_test
+"No one in my hostel wing talks to me",loneliness,handwritten_test
+"I really miss home and feel so alone here",loneliness,handwritten_test
+"I don't have anyone I can call a friend on campus",loneliness,handwritten_test
+"Weekends are the worst, I'm just by myself",loneliness,handwritten_test
+"My partner and I split up last week",relationship_social,handwritten_test
+"My roommate keeps picking fights with me",relationship_social,handwritten_test
+"Mom and dad keep shouting at me about my career",relationship_social,handwritten_test
+"My friend circle has turned against me",relationship_social,handwritten_test
+"I froze when I had to talk to new people at the fest",relationship_social,handwritten_test
+"I'm running on empty after weeks of no breaks",burnout,handwritten_test
+"Nothing motivates me anymore, I'm just drained",burnout,handwritten_test
+"Between internship and classes I'm completely worn out",burnout,handwritten_test
+"I've lost all energy, even hobbies feel like a chore",burnout,handwritten_test
+"I'm exhausted and I've stopped caring about college",burnout,handwritten_test
+"I've been crying in the washroom between lectures",emotional_distress,handwritten_test
+"My chest gets tight and I feel panicky out of nowhere",emotional_distress,handwritten_test
+"I've felt really low and hopeless for a while now",emotional_distress,handwritten_test
+"I feel overwhelmed and empty most days",emotional_distress,handwritten_test
+"My anxiety won't let me calm down",emotional_distress,handwritten_test
+"Everyone in my batch is better than me",self_esteem,handwritten_test
+"I feel like I don't belong in this college",self_esteem,handwritten_test
+"I think I'm just not smart enough",self_esteem,handwritten_test
+"I hate how I look in photos",self_esteem,handwritten_test
+"I never feel confident speaking in class",self_esteem,handwritten_test
+"Where is the counselling cell located",other,handwritten_test
+"Give me tips to plan my day",other,handwritten_test
+"What is box breathing",other,handwritten_test
+"Does this app store my chats",other,handwritten_test
+"hello there",other,handwritten_test
